@@ -1,0 +1,5 @@
+start = input('Team: ')
+print(start.lower())
+for Letter in start: 
+  print('Give me a ' + Letter.upper() + '!')
+print('What does that spell? ' + start.upper() + '!')
