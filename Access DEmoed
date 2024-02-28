@@ -1,0 +1,5 @@
+start = input("Enter password: ")
+if start == "chEEzburg3rz":
+  print("Access granted")
+else:
+  print("Access denied")
